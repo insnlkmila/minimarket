@@ -3,7 +3,8 @@
 Minimart was made with JavaScript, it's includes a simple Create, Read, Update , and Delete (CRUD) to introduced us as a first semester student college about programming and how to implement CRUD to the system.
 
 
-#simple interface
+
+# Simple Interface
 
 ![imgur](https://imgur.com/LLsL3fJ.jpg)
 
