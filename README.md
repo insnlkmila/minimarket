@@ -5,6 +5,8 @@ Minimart was made with JavaScript, it's includes a simple Create, Read, Update ,
 
 # Simple Interface
 
+This is how it looks, with a template:
+
 ![imgur](https://imgur.com/LLsL3fJ.jpg)
 
 suitable for early students who are just entering programming or individual who just start to begin learning about programming and developing an interface system web.
